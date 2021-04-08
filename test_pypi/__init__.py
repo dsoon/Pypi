@@ -1,1 +1,1 @@
-from test_file.Test import my_global_var, MyGLobalCLass
+from test_Pypi.Test import my_global_var, MyGLobalCLass
